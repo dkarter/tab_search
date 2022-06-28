@@ -9,4 +9,4 @@ adjust to your liking.
 ![](./screenshot.png)
 
 # Demo
-<video src="./demo.mp4" />
+<video src="https://raw.githubusercontent.com/dkarter/tab_search/master/demo.mp4" />
