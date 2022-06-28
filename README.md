@@ -9,4 +9,4 @@ adjust to your liking.
 ![](./screenshot.png)
 
 # Demo
-![](./demo.mp4)
+<video src="./demo.mp4" />
